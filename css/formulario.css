@@ -1,0 +1,54 @@
+#cabeza{
+    background: #fd9575;
+    height: 400px;
+    width: 100%;
+    font-family: tahoma;
+}
+#logo{
+    margin-left: 15%;
+    width: 70%;
+    height: 100%;
+}
+#Linscripciones{
+    margin-top: 25px;
+    color: #6d6c6c;
+    font-size: 25px;
+    margin: 25px;
+}
+#cd{
+    margin-left: 5px;
+    color: #04c9c9;
+    font-size: 30px;
+}
+.content-box-mint {
+background-color: #04c9c9;
+margin: 0 0 25px;
+overflow: hidden;
+width: 15em;
+padding: 5px;
+color: #ffffff;
+border-bottom-color: #000000;
+}
+hr{
+    background: #453e3f;
+     width:75%;
+     height: 10px
+}
+button{
+    border-radius: 5em;
+    background: #453e3f;
+    color: white;
+    width: 20%;
+    height: 35px;
+}
+#boton{
+    width: 120px;
+    height: 40px;
+}
+
+input {
+background-color:yellow;
+color:blue;
+font-size:14pt;
+text-align:right;
+}
